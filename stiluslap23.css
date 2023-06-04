@@ -1,0 +1,63 @@
+﻿body
+{
+   color: antiquewhite;
+   background-color: darkgreen;
+}
+#folap
+{
+   padding:1%;
+
+
+}
+
+a:link
+{
+   color: #7CFC00;
+    margin:5px;
+}
+a:visited 
+{
+    color: #7CFC00;
+    
+}
+a:active
+{
+    color: #7CFC00;
+    
+}
+a:hover
+{
+  color: green;
+  background-color: #7CFC00;
+    font-size:large;
+}
+#pontok
+{
+    margin-left:4px;
+    padding:1%;
+}
+#fejlec 
+{
+    
+   background-image: url("fejlec.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#fejlec h1
+{
+ text-align: right;  
+}
+
+#abc
+{
+    padding: 1%;
+}
+
+.alairas
+{
+  text-align: center;  
+}
+span{
+    color:yellow;
+}

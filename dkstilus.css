@@ -1,0 +1,67 @@
+﻿body {
+	font-size: 11pt;
+	background-image:url(bg.png);
+	margin: 0px;
+	padding: 0px;
+    font-family:Verdana;
+    font-size:small;
+    color:#00008b;
+    text-align:justify;
+}
+hr {
+	width:80%;
+    color:black;
+}
+
+h1, h2 {
+	color:#dc143c;
+	padding: 5px;
+}
+#tartalom {
+	
+	margin: 0 auto 0 auto;
+	text-align: left;
+	
+}
+
+#oszlop1, #oszlop2, #oszlop3 {
+    float: left;
+    width:300px;
+    padding: 0%;
+}
+a {
+    color:#dc143c;
+	
+}
+
+#lablec {
+    clear: both;
+    
+}
+h1{
+    color:darkred;
+}
+h3{
+    color:darkblue;
+}
+img{
+    width:60%;
+    height:60%;
+}
+div{
+    background-color:white;
+    margin:auto;
+    text-align:left;
+    border:none;
+    width:930px;
+    display:block;
+}
+#ez{
+    font-style:italic;
+}
+b{
+    font-size:larger;
+}
+
+
+

@@ -1,0 +1,18 @@
+﻿body
+{
+background-color:#fdde08;
+}
+a{
+	color:black;
+}
+
+ol{
+	background-color:#ffb70c;
+}
+h3{
+	color:black;
+}
+iframe {
+    width: 100%;
+    height: 100vh;
+}

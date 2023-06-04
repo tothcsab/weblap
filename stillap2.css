@@ -1,0 +1,32 @@
+﻿body
+{
+background-color:#ffb70c;
+}
+h1{
+    text-align:center;
+    color:black;
+}
+h2{
+    color:black;
+}
+h3{
+    color:black;
+}
+img{
+    
+    width:45%;
+    height:45%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gyak2 {
+    width: 31%;
+    height: 31%;
+    float: right;
+}
+.bmi2{
+    float:right;
+}
+.ela2{
+    float:right;
+}

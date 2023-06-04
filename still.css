@@ -1,0 +1,16 @@
+﻿body
+{
+    background-color:orange;
+}
+div {
+    height: 200px;
+    width: 200px;
+    background-image: url("kep.png");
+    margin: 10px;
+    border: 12px green;
+    padding: 10px;
+    text-align:center;
+    display:inline-block;
+    border:5px green;
+    
+}

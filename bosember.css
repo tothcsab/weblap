@@ -1,0 +1,20 @@
+﻿body
+{
+    background-color:#FFE4B5;
+    color:navy;
+}
+h1{
+text-align:center;
+}
+hr{
+    width:400px;
+}
+#neankep{
+    float:right;
+}
+#neansz{
+    
+    padding:100px;
+    
+}
+

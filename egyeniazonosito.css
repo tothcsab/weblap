@@ -1,0 +1,41 @@
+﻿body
+{
+    background-color:gray;
+}
+h1
+{
+    color:#3e00f5;
+}
+#sor-1 {
+    color: purple;
+    background-color: azure;
+    font-family: Ravie;
+    font-size: 33px;
+    font-style: initial;
+    font-variant-caps: all-small-caps
+}
+#sor-2 {
+    color: darkred;
+    background-color: black;
+    font-family: Cambria;
+    font-size: 56px;
+    font-style: initial;
+    font-variant-caps: all-small-caps
+}
+#sor-3 {
+    color: palevioletred;
+    background-color: green;
+    font-family: fantasy;
+    font-size: 40px;
+    font-style: initial;
+    font-variant-caps: all-small-caps
+}
+#sor-4
+{
+    color: darkcyan;
+    background-color: darkolivegreen;
+    font-family: KacstBook;
+    font-size: 45px;
+    font-style: initial;
+    font-variant-caps:all-small-caps
+}
